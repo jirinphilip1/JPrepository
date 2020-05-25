@@ -1,5 +1,4 @@
 # JPrepository
 Aman
-Jirin
 
 
